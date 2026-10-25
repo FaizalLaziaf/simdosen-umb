@@ -1,0 +1,1 @@
+<?php if(!empty($public)||empty($_SESSION['user'])): ?></main><footer class="foot">SIM Dosen - Fakultas Teknik, Universitas Muhammadiyah Bengkulu</footer><?php else: ?></main></div><?php endif; ?></body></html>
